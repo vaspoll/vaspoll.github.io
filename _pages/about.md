@@ -1,50 +1,46 @@
 ---
+
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
-I am a Senior Reinforcement Learning Engineer at Quilter, working on reinforcement learning for automated PCB design. I completed my PhD in Computer Science from the [University of California, Irvine](https://www.ics.uci.edu/). My work lies at the intersection of multi-agent reinforcement learning, game theory, and optimization.
+I am a PhD student in the Department of Mathematics at the [National and Kapodistrian University of Athens](https://en.uoa.gr/) and an Academic Fellow at the [Archimedes Research Unit](https://archimedesai.gr/en/researchers/vasilis-pollatos), [Athena Research Center](https://www.athenarc.gr/en), advised by [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/home.html) and [Ioannis Panageas](https://panageas.github.io/). My research lies at the intersection of optimization, learning in games, multi-agent reinforcement learning, and theoretical machine learning.
+
+My PhD research focuses on algorithms, dynamics, and convergence guarantees for learning in non-convex games. I am particularly interested in equilibrium computation, game-theoretic learning beyond convex settings, optimization with combinatorial structure, and the computational limits of iterative methods.
 
 In reverse chronological order, I have worked on:
 
-* Reinforcement Learning for LLM Hallucination Control at [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-research)
-* Reinforcement Learning for In-Context Learning at [Microsoft Research](https://www.microsoft.com/en-us/research/) as an [RLOS](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) participant
-* Multi-Agent Reinforcement Learning at [Zebra Technologies](https://www.zebra.com/us/en.html) with [Biswa Sengupta](https://www.linkedin.com/in/biswasengupta).
-* Privacy-Preserving Reinforcement learning at the [UCI Networking Group](https://athinagroup.eng.uci.edu/).
-* Reinforcement Learning for Industrial Power Control, advised by [Qiuhua Huang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2957) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/reinforcement-learning-grid-control) 
-* Music information retrieval algorithms at the Language & Speech Processing Institute of the [Athena Research and Innovation Center](https://www.athenarc.gr/en). 
+* Online learning on hidden-convex losses achieving optimal regret and learning under bandit feedback.
+* The computational complexity of avoiding strict saddle points in constrained optimization.
+* Learning and equilibrium computation in polyhedral and combinatorial games, including efficient learning algorithms for Colonel Blotto and congestion games.
+* Swap-regret minimization in combinatorial bandits.
+* The computational complexity of finding second-order stationary points in unconstrained non-convex optimization.
+* Corruption-robustness in performative reinforcement learning at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
+* Learning mixtures of Selective Mallows Models for my master's thesis at the [NTUA Computation and Reasoning Laboratory](https://corelab.ntua.gr/), advised by [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/).
+* Land-cover semantic segmentation of satellite images and focused web crawling with reinforcement learning at [NCSR “Demokritos”](https://www.demokritos.gr/).
 
-I also hold a MS in Computer Engineering from the University of California, Irvine, and a MEng Diploma in EECS from the [National Technical University of Athens](https://en.wikipedia.org/wiki/National_Technical_University_of_Athens). For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
+I have also been a visiting doctoral fellow at the [LIONS group](https://www.epfl.ch/labs/lions/) at [EPFL](https://www.epfl.ch/), hosted by [Volkan Cevher](https://www.epfl.ch/labs/lions/people/volkan-cevher/), and at [UC Irvine](https://uci.edu/) with [Ioannis Panageas](https://panageas.github.io/).
 
-My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to visit Crete, ask me for recommendations!
+I hold a M.Eng. in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ntua.gr/en/). For more information, see my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=Xyi2t2sAAAAJ) or [CV](/files/CV_Vasilis_Pollatos.pdf), or feel free to [contact](/contact) me.
 
-<!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
+---
 
-----
+# News
 
-News
-======
-* **April 2023** - Thrilled to announce my recent acceptance at the [Microsoft Reinforcement Learning Open Source Festival 2023](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/), exploring feature generation using transformers! Check out my [screening exercise implementation](https://bow-save-700.notion.site/Balancing-a-Cartpole-using-Reinforcement-Learning-and-Transformers-5dc8a1328add4a42b8ff90b3a55be5ed) conducting an inverted pole balancing task via transformers and reinforcement learning.
+* **May 2026** - Our paper, [Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback](https://arxiv.org/abs/2605.26373), is now available on arXiv.
 
-* **March 2023** - Happy to announce I will be joining Qualcomm AI this summer, focusing on machine learning and combinatorial optimization under constraints.
+* **May 2026** - Our paper, [Near-Optimal Swap Regret in Combinatorial Bandits](https://openreview.net/pdf/6f23aeb3b149b2e9ae90a3fdbda0e14aa3a6b6ab.pdf), was accepted at [AISTATS 2026](https://aistats.org/).
 
-* **February 2023** - Our paper entitled [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games](https://arxiv.org/abs/2208.02204) got accepted at [ICLR 2023](https://iclr.cc/) as a notable-top-5% paper.
+* **April 2026** - Our paper, [The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization](https://arxiv.org/abs/2604.02285), is now available on arXiv.
 
-* **January 2023** - Our paper entitled [adaPARL: Adaptive Privacy-Aware Reinforcement Learning for Sequential-Decision Making Human-in-the-Loop Systems
-](https://arxiv.org/abs/2303.04257) got accepted at [IoTDI 2023](https://conferences.computer.org/iotDI/2023/).
+* **December 2025** - Our paper, [Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games](https://arxiv.org/abs/2509.20919), was accepted at [NeurIPS 2025](https://neurips.cc/).
 
-* **September 2022** - Our paper entitled [On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://arxiv.org/abs/2210.05212) got accepted at [NeurIPS 2022](https://nips.cc/virtual/2022/poster/53909).
+* **February 2025** - Our paper, [On Corruption-Robustness in Performative Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34196), was accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) (accepted as an oral presentation).
 
-* **June 2022** - Joined the Core ML team of [Zebra Technologies](https://www.zebra.com/us/en.html) as a Reinforcement Learning Engineer to work on multi-agent orchestration solutions with [Jay Williams](https://www.linkedin.com/in/jayjwilliams).
-
-* **June 2022** - Submitted my MS thesis entitled ["Computing Nash Equilibria in Adversarial Stochastic Team Games"](https://steliostavroulakis.github.io/files/MS_Thesis_UCI.pdf). Code containing algorithm implementation and multi-agent reinforcement learning environment can be found [here](https://github.com/steliostavroulakis/AdversarialTeamGames).
-
-* **May 2022** - Participated in the [Learning and Games](https://simons.berkeley.edu/programs/games2022) program at the Simons Institute for the Theory of Computing. Particularly enjoyed the [Multi-Agent Reinforcement Learning and Bandit Learning](https://simons.berkeley.edu/workshops/games2022-3) Workshop.
-
-* **March 2022** - Our paper entitled [Reinforcement Learning for Location-Aware Scheduling](https://arxiv.org/abs/2203.03480) got accepted at the inaugural ICLR 2022 Workshop on [Generalizable Policy Learning in Physical World](https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/).
-
-* **July 2021** - Completed the [Reinforcement Learning Specialization](https://coursera.org/share/79e65992652227a9c3872d9ea3a031a3) offered by the [University of Alberta](https://www.coursera.org/specializations/reinforcement-learning). This was probably one of the most organized and well-crafted courses I have ever taken.
+* **July 2024** - Our paper, [The Computational Complexity of Finding Second-Order Stationary Points](https://proceedings.mlr.press/v235/kontogiannis24a.html), appeared at [ICML 2024](https://icml.cc/).
