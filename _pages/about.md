@@ -1,12 +1,10 @@
 ---
-
 permalink: /
 title: ""
 author_profile: true
 redirect_from:
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I am a PhD student in the Department of Mathematics at the [National and Kapodistrian University of Athens](https://en.uoa.gr/) and an Academic Fellow at the [Archimedes Research Unit](https://archimedesai.gr/en/researchers/vasilis-pollatos), [Athena Research Center](https://www.athenarc.gr/en), advised by [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/home.html) and [Ioannis Panageas](https://panageas.github.io/).
