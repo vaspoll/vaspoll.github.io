@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: ""
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I am a PhD student in the Department of Mathematics at the [National and Kapodistrian University of Athens](https://en.uoa.gr/) and an Academic Fellow at the [Archimedes Research Unit](https://archimedesai.gr/en/researchers/vasilis-pollatos), [Athena Research Center](https://www.athenarc.gr/en), advised by [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/home.html) and [Ioannis Panageas](https://panageas.github.io/). My research lies at the intersection of optimization, learning in games, multi-agent reinforcement learning, and theoretical machine learning.
@@ -29,10 +26,10 @@ I have also been a visiting doctoral fellow at the [LIONS group](https://www.epf
 
 I hold a M.Eng. in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ntua.gr/en/). For more information, see my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=Xyi2t2sAAAAJ) or [CV](/files/CV_Vasilis_Pollatos.pdf), or feel free to [contact](/contact) me.
 
----
+----
 
-# News
-
+News
+======
 * **May 2026** - Our paper, [Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback](https://arxiv.org/abs/2605.26373), is now available on arXiv.
 
 * **May 2026** - Our paper, [Near-Optimal Swap Regret in Combinatorial Bandits](https://openreview.net/pdf/6f23aeb3b149b2e9ae90a3fdbda0e14aa3a6b6ab.pdf), was accepted at [AISTATS 2026](https://aistats.org/).
