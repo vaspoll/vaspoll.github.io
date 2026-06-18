@@ -21,7 +21,7 @@ News
 ======
 * **May 2026** - Our paper, [Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback](https://arxiv.org/abs/2605.26373), is now available on arXiv.
 
-* **May 2026** - Our paper, [Near-Optimal Swap Regret in Combinatorial Bandits](https://openreview.net/pdf/6f23aeb3b149b2e9ae90a3fdbda0e14aa3a6b6ab.pdf), was accepted at [AISTATS 2026](https://aistats.org/).
+* **May 2026** - Our paper, [Efficient Swap Regret Minimization in Combinatorial Bandits](https://openreview.net/pdf/6f23aeb3b149b2e9ae90a3fdbda0e14aa3a6b6ab.pdf), was accepted at [AISTATS 2026](https://aistats.org/).
 
 * **April 2026** - Our paper, [The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization](https://arxiv.org/abs/2604.02285), is now available on arXiv.
 
