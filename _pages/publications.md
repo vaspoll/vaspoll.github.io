@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 <sup>*</sup> Equal contribution. [αβ] Authors listed in alphabetical order.
 
 **(2026)** Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback
