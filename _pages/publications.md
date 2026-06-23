@@ -29,6 +29,6 @@ A. Kontogiannis, D. Kelesis, <u>V. Pollatos</u>, G. Paliouras and G. Giannakopou
 
 **Land Cover Semantic Segmentation Using ResUNet**<br/> <u>V. Pollatos</u>, L. Kouvaras and E. Charou.<br/> <font color="#ff8a80">AINST 2020</font>. [[paper]](https://arxiv.org/abs/2010.06285)<br/>
 
-## Thesis
+## Master Thesis
 
 **Learning Mixtures of Selective Mallows Models**<br/> <u>V. Pollatos</u>.<br/> <font color="#ff8a80">M.Eng. Diploma Thesis, National Technical University of Athens, 2022</font>. Advisor: [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). [[thesis]](https://dspace.lib.ntua.gr/xmlui/handle/123456789/55730)<br/>
