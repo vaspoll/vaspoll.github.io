@@ -19,6 +19,8 @@ My research develops and analyzes learning algorithms for games and optimization
 
 News
 ======
+* **May 2026** - Our paper, [The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller](https://arxiv.org/abs/2607.10897), is now available on arXiv.
+
 * **May 2026** - Our paper, [Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback](https://arxiv.org/abs/2605.26373), is now available on arXiv.
 
 * **May 2026** - Our paper, [Efficient Swap Regret Minimization in Combinatorial Bandits](https://openreview.net/pdf/6f23aeb3b149b2e9ae90a3fdbda0e14aa3a6b6ab.pdf), was accepted at [AISTATS 2026](https://aistats.org/).
