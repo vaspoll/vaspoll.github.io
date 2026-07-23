@@ -7,6 +7,9 @@ author_profile: true
 
 <sup>*</sup> Equal contribution. [αβ] Authors listed in alphabetical order.
 
+**The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller**<br/>
+G. Farina, A. Kontogiannis, I. Panageas and <u>V. Pollatos</u>. [αβ]<br/> <font color="#ff8a80">arXiv preprint (2026)</font>. [[paper]](https://arxiv.org/abs/2607.10897)<br/>
+
 **Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback**<br/>
 A. Barakat, A. Kontogiannis, <u>V. Pollatos</u>, I. Panageas and A. Varvitsiotis.<br/> <font color="#ff8a80">arXiv preprint (2026)</font>. [[paper]](https://arxiv.org/abs/2605.26373)<br/>
 
