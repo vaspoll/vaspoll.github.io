@@ -24,7 +24,7 @@ G. Farina, A. Kontogiannis, I. Panageas and <u>V. Pollatos</u>. [αβ]<br/> <fon
 A. Kontogiannis, I. Panageas, <u>V. Pollatos</u> and J. Yan. [αβ]<br/> <font color="#ff8a80">arXiv preprint (2026)</font>. [[paper]](https://arxiv.org/abs/2609.23879)<br/>
 
 **Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback**<br/>
-A. Barakat, A. Kontogiannis, <u>V. Pollatos</u>, I. Panageas and A. Varvitsiotis.<br/> <font color="#ff8a80">NeurIPS 2026</font>, <font color="#d6b4ff">poster</font>. [[paper]](https://arxiv.org/abs/2605.26373)<br/>
+A. Barakat, A. Kontogiannis, <u>V. Pollatos</u>, I. Panageas and A. Varvitsiotis.<br/> <font color="#ff8a80">NeurIPS 2026</font>. [[paper]](https://arxiv.org/abs/2605.26373)<br/>
 
 **The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization**<br/>
 A. Kontogiannis, I. Panageas and <u>V. Pollatos</u>. [αβ]<br/> <font color="#ff8a80">arXiv preprint (2026)</font>. [[paper]](https://arxiv.org/abs/2604.02285)<br/>
