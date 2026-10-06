@@ -1,11 +1,9 @@
-
-
 ---
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 
 <sup>*</sup> Equal contribution. [αβ] Authors listed in alphabetical order.
 
